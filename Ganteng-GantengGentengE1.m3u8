@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:0,Moviebox
+https://bcdnxw.hakunaymatata.com/resource/24ab083f6d63046b0beca872158e2912.mp4?sign=c2d5e45c61dbf60cf16f689fdd5f1879&t=1778839627
+#EXTINF:0,Moviebox
+https://bcdnxw.hakunaymatata.com/bt/72dd9a3fb1d48aa2531fe7d0126bdfc9.mp4?sign=57a6275a050a4054365cbf46770aff16&t=1778840187
+#EXT-X-ENDLIST
